@@ -2,3 +2,5 @@ fastapi
 uvicorn
 google-genai
 fastapi-clerk-auth
+pydantic
+python-dotenv
